@@ -37,9 +37,11 @@ Projeto foi desenvolvido em cima de uma aplicação React ultilizando o Vite, co
 ## ⚙️ Rodando o Projeto
 ```bash
 # Clone este repositório para a pasta anterior
-$ git clone https://github.com/thmata/IgniteChallenge01
+$ git clone https://github.com/Wesley-Medeiros/Desafio-Praticando-conceitos
 
-# Acesse a pasta IgniteFeed
+
+# Acesse a pasta Desafio-Praticando-conceitos
+
 $ cd IgniteChallenge01
 
 # Instale as dependências
